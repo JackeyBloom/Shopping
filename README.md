@@ -1,8 +1,8 @@
 # SHOP
 
-Shop is a sample e-commerce [Progressive Web App](https://developers.google.com/web/progressive-web-apps/).
+Shop is a sample e-commerce [Progressive Web App](https://developers.google.com/web/progve-web-apps/).
 
-![shop screenshot](https://user-images.githubusercontent.com/116360/39545341-c50a9184-4e05-11e8-88e0-0e1f3fa4834b.png)
+![shop screenshot](https://user-images.githubusercontent.6360/39545341-c50a9184-4e05-11e8-88e0-0e1f3fa4834b.png)
 
 ## Features/highlights
 
@@ -35,4 +35,3 @@ $ npm run serve:static
 
 ## Deploying
 
-Our [production deployment of SHOP](https://shop.polymer-project.org/) is hosted on App Engine with Node.js. It can be deployed with [the same steps as PWA Starter Kit](https://polymer.github.io/pwa-starter-kit/building-and-deploying/#deploying-prpl-server).
